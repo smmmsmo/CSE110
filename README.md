@@ -5,19 +5,19 @@
 
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)](https://www.oracle.com/java/)
 [![Course](https://img.shields.io/badge/Course-CSE110-blue)](https://github.com/MostofaMorshedSayeem/CSE110)
-[![Semester](https://img.shields.io/badge/Semester-Summer%202025-green)](https://github.com/MostofaMorshedSayeem/CSE110)
+[![Semester](https://img.shields.io/badge/Semester-Summer%202025-cyan)](https://github.com/MostofaMorshedSayeem/CSE110)
 
 </div>
 
 > 🌟 **Welcome to CSE110 - Programming Language I!** 🎓  
-> 📚 This repository contains course materials, assignments, and resources for future students at BRAC University.  
+> 📚 This repository contains course materials, assignments, and resources for future students at BRAC University and Students from all over the World!  
 
 
 ---
 
 ## 📚 Course Overview
 
-🗓️ **Semester**: Summer 2025 & Spring 2025  
+🗓️ **Semester**: Summer 2025
 💻 **Language**: Java  
 🎯 **Focus**: Programming Fundamentals, Arrays, Recursion & Problem Solving
 
@@ -87,7 +87,7 @@ Each week contains three categories:
 | 📋 **Course Info** | 👨‍💻 **Maintainer** |
 |:---:|:---:|
 | 🎓 CSE110 - Programming Language I | 👤 SM Mostofa Morshed Sayeem |
-| 🏛️ Brac University | 🔗 [GitHub Profile](https://github.com/MostofaMorshedSayeem) |
+| 🏛️ Brac University | 🔗 [GitHub](https://github.com/MostofaMorshedSayeem) |
 
 </div>
 
@@ -100,7 +100,7 @@ Each week contains three categories:
 
 ## 📄 License
 
-📜 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+📜 This project is licensed under the MIT License.
 
 ---
 
@@ -125,6 +125,6 @@ Each week contains three categories:
 
 ---
 
-**✨ Made with ❤️ for CSE110 Students at BRAC University ✨** (Cringy Kind of. I know :| )
+**✨ Made with ❤️  ✨**
 
 </div>
