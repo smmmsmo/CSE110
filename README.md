@@ -24,30 +24,6 @@
 
 ---
 
-## 🗂️ Repository Structure
-
-<details>
-<summary>📂 Click to expand folder structure</summary>
-
-```
-🏛️ CSE110/
-├── 🧪 Lab/
-│   ├── 📁 Week 1/   
-│   ├── 📁 Week 2/   
-│   ├── 📁 Week 3/
-│   ├── 📁 Week 4/ 
-│   ├── 📁 Week 5/    
-│   ├── 📁 Week 6/    
-│   └── 📁 Week 7/    
-├── 📁 Notes/
-└── 📄 README.md
-```
-
-</details>           
-
-
----
-
 ### 📂 Week Structure
 Each week contains three categories:
 - 🏫 **Classwork**: Tasks completed during class sessions
@@ -57,6 +33,7 @@ Each week contains three categories:
 
 ---
 
+<<<<<<< Updated upstream
 ## 🤝 Contributing
 
 🎯 This repository is intended as a resource for future CSE110 students. Help make it better! 
@@ -122,6 +99,8 @@ Each week contains three categories:
 
 ---
 
+=======
+>>>>>>> Stashed changes
 <div align="center">
 
 ## 🎉 **Happy Coding!** 🚀
