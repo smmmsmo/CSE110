@@ -34,6 +34,7 @@ Each week contains three categories:
 ---
 
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 ## 🤝 Contributing
 
 🎯 This repository is intended as a resource for future CSE110 students. Help make it better! 
@@ -99,6 +100,8 @@ Each week contains three categories:
 
 ---
 
+=======
+>>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
 <div align="center">
