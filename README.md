@@ -18,7 +18,9 @@
 ## 📚 Course Overview
 
 🗓️ **Semester**: Summer 2025
+
 💻 **Language**: Java  
+
 🎯 **Focus**: Programming Fundamentals, Arrays, Recursion & Problem Solving
 
 
